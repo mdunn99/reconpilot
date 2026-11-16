@@ -1,11 +1,11 @@
-# Pokebot - Cybersecurity Recon Helper
-**Pokebot** speeds up pentesting for your clients or yourself. It's a GPT-powered agent that performs basic initial recon tools on your behalf.
+# ReconPilot - Cybersecurity Recon Helper
+**ReconPilot** speeds up pentesting for your clients or yourself. It's a GPT-powered agent that performs basic initial recon tools on your behalf.
 Currently **only Linux** is supported.
 
 # Use & Install
 ```
-git clone https://github.com/mdunn99/pokebot.git
-cd pokebot
+git clone https://github.com/mdunn99/reconpilot.git
+cd reconpilot
 ```
 
 ## Install Python Dependencies
