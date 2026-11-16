@@ -4,8 +4,8 @@ Currently **only Linux** is supported.
 
 # Use & Install
 ```
-git clone https://github.com/mdunn99/poke-bot.git
-cd poke-bot
+git clone https://github.com/mdunn99/pokebot.git
+cd pokebot
 ```
 
 ## Install Python Dependencies
